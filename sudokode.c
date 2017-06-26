@@ -1,5 +1,4 @@
 // Nicholas Espinosa
-// PID n2431401
 // COP 3502 - 0001
 // Sudokode (Szumlanski Version)
 
